@@ -1,0 +1,14 @@
+{
+  "name": "image-capture-desktop",
+  "version": "1.0.0",
+  "main": "main/main.js",
+  "scripts": {
+    "start": "electron . --trace-warnings"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "electron": "^30.0.9"
+  }
+}
